@@ -1,8 +1,12 @@
 # Warren “Wazza” Gerdes · Pope Kael
 
 Retired Australian Infrastructure & Systems Architect, based in Thailand.
-I build practical tools for local AI, knowledge management and creator workflows,
-with an emphasis on useful results, portability and human–AI collaboration.
+These days, my workshop is local AI, knowledge systems and creator tools.
+I bring a systems architect's eye to building things with AI: how they fit together,
+what they actually do, and whether they are useful in everyday work.
+
+This is my project bench: public tools you can explore, alongside private builds
+taking shape. Start with Ariadne for the AI librarian, or Garage Alchemy for the workshop.
 
 > Take AI into the garage and see if it actually works.
 
@@ -31,5 +35,5 @@ their implementation and private data are not published here.
 [Garage Alchemy](https://garage.dia.net.au/) ·
 [My website](https://warren.dia.net.au/)
 
-Projects develop incrementally. I prefer measured behaviour and clear limitations
-to claims that something is finished because it managed one successful demo.
+Follow along through the public repositories and the workshop website.
+I share working increments, experiments and lessons as the projects develop.

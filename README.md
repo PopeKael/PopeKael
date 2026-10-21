@@ -17,6 +17,7 @@ taking shape. Start with Ariadne for the AI librarian, or Garage Alchemy for the
 | [Ariadne](https://github.com/PopeKael/Ariadne) | An open architecture for a trusted AI librarian: local models, persistent knowledge and a coherent interface above them. |
 | [Dungeon Crawl](https://github.com/PopeKael/dungeon-crawl) | A local interactive storyteller combining LLM narration, persistent characters and story state, voice playback and scene illustrations. |
 | [MachineGlass](https://github.com/PopeKael/MachineGlass) | A compact native Windows monitor for CPU, RAM and GPU activity while working on AI projects, with GPU memory graphs and optional always on top. [Portable download](https://github.com/PopeKael/MachineGlass/releases/tag/v0.1.0); feedback welcome. |
+| [Tokens and Code](https://github.com/PopeKael/TokensAndCode) | A local-first Windows tray dashboard for Codex token usage, trends and hypothetical API-equivalent costs from local logs. [Portable download](https://github.com/PopeKael/TokensAndCode/releases/latest). |
 | [Wazza Images](https://github.com/PopeKael/wazza-images) | A local image-filing utility that uses vision models to propose useful filenames while preserving image contents. |
 | [Garage Alchemy](https://github.com/PopeKael/wazza-garage) | The workshop website for practical AI experiments, automation and building things that earn their keep. |
 | [Wazza Linktree](https://github.com/PopeKael/wazza-linktree) | A simple landing page connecting my channels and projects. |

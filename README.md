@@ -14,6 +14,7 @@ taking shape. Start with Ariadne for the AI librarian, or Garage Alchemy for the
 
 | Project | What I’m working on |
 |---|---|
+| [Wazza's QCam](https://github.com/PopeKael/wazzas-qcam) | Free offline Android teleprompter and camera recorder with scripts, live microphone graph, orientation-aware controls and locally saved video. [Download v1.0.0](https://github.com/PopeKael/wazzas-qcam/releases/tag/v1.0.0). |
 | [Ariadne](https://github.com/PopeKael/Ariadne) | An open architecture for a trusted AI librarian: local models, persistent knowledge and a coherent interface above them. |
 | [Dungeon Crawl](https://github.com/PopeKael/dungeon-crawl) | A local interactive storyteller combining LLM narration, persistent characters and story state, voice playback and scene illustrations. |
 | [MachineGlass](https://github.com/PopeKael/MachineGlass) | A compact native Windows monitor for CPU, RAM and GPU activity while working on AI projects, with GPU memory graphs and optional always on top. [Portable download](https://github.com/PopeKael/MachineGlass/releases/tag/v0.1.0); feedback welcome. |
@@ -39,3 +40,13 @@ their implementation and private data are not published here.
 
 Follow along through the public repositories and the workshop website.
 I share working increments, experiments and lessons as the projects develop.
+
+## Help and community
+
+Have a practical problem you think could become a useful tool? Ideas, bug reports and improvements are welcome in the [Issues section of the relevant project](https://github.com/PopeKael?tab=repositories). Please use each repository's issue tracker so the conversation stays with the code. Projects derived from other authors retain their original attribution and licence terms.
+
+## Support the workshop ☕
+
+I build and share these projects through [Garage Alchemy](https://garage.dia.net.au/). The tools are offered under their respective project licences; support is always optional. If something is useful to you, you're welcome to [Buy Me a Coffee](https://buymeacoffee.com/warrengerdes) or [Join the Tribe on Patreon](https://www.patreon.com/c/chanyawazza).
+
+**Build something useful. Give it away. Let appreciation take care of itself.**

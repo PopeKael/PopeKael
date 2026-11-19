@@ -1,12 +1,12 @@
 # Warren “Wazza” Gerdes · Pope Kael
 
 Retired Australian Infrastructure & Systems Architect, based in Thailand.
-These days, my workshop is local AI, knowledge systems and creator tools.
+These days, my workshop is local AI, knowledge systems, creator tools and 3D art.
 I bring a systems architect's eye to building things with AI: how they fit together,
 what they actually do, and whether they are useful in everyday work.
 
 This is my project bench: public tools you can explore, alongside private builds
-taking shape. Start with Ariadne for the AI librarian, or Garage Alchemy for the workshop.
+taking shape. Ariadne is my ongoing AI and knowledge systems project; Woz's World is our creative playground for AI-assisted 3D art. Garage Alchemy is where I share the experiments.
 
 > Take AI into the garage and see if it actually works.
 
@@ -14,9 +14,10 @@ taking shape. Start with Ariadne for the AI librarian, or Garage Alchemy for the
 
 | Project | What I’m working on |
 |---|---|
+| [Ariadne](https://github.com/PopeKael/Ariadne) | An open architecture for a trusted AI librarian: local models, persistent knowledge and a coherent interface above them. |
+| [Woz's World (WOW)](https://github.com/PopeKael/Wozs-World) | An open workshop for AI-assisted 3D creation, independent OpenSimulator worlds and collaborative experimentation with Blender. Version 1.0.0 is the working-world baseline. |
 | [Wazza's QCam](https://github.com/PopeKael/wazzas-qcam) | Free offline Android teleprompter and camera recorder with scripts, live microphone graph, orientation-aware controls and locally saved video. [Download v1.0.0](https://github.com/PopeKael/wazzas-qcam/releases/tag/v1.0.0). |
 | [PhasaForge](https://github.com/PopeKael/PhasaForge) | Free Windows Thai-learning companion for selected text, word and syllable analysis, optional translation, speech playback and practice. Public source preview; version 1.0.0 installers are still completing clean-machine acceptance. |
-| [Ariadne](https://github.com/PopeKael/Ariadne) | An open architecture for a trusted AI librarian: local models, persistent knowledge and a coherent interface above them. |
 | [Dungeon Crawl](https://github.com/PopeKael/dungeon-crawl) | A local interactive storyteller combining LLM narration, persistent characters and story state, voice playback and scene illustrations. |
 | [MachineGlass](https://github.com/PopeKael/MachineGlass) | A compact native Windows monitor for CPU, RAM and GPU activity while working on AI projects, with GPU memory graphs and optional always on top. [Portable download](https://github.com/PopeKael/MachineGlass/releases/tag/v0.1.0); feedback welcome. |
 | [Tokens and Code](https://github.com/PopeKael/TokensAndCode) | A local-first Windows tray dashboard for Codex token usage, trends and hypothetical API-equivalent costs from local logs. [Portable download](https://github.com/PopeKael/TokensAndCode/releases/latest). |
